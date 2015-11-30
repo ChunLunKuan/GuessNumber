@@ -1,0 +1,25 @@
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\bin\Debug\GameLibrary.dll
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\HomeWork\bin\Debug\GameLibrary.pdb
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\bin\Debug\HomeWork.exe.config
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.exe
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.pdb
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\bin\Debug\HomeWork.exe
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\bin\Debug\HomeWork.pdb
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\bin\Debug\GameLibrary.dll
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\bin\Debug\GameLibrary.pdb
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.Form1.resources
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+D:\C_Sharp\CS261\[CS261]2015-10-20\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+D:\C_Sharp\HomeWork\Guess Number\HomeWork\bin\Debug\HomeWork.exe.config
+D:\C_Sharp\HomeWork\Guess Number\HomeWork\obj\Debug\HomeWork.exe
+D:\C_Sharp\HomeWork\Guess Number\HomeWork\obj\Debug\HomeWork.pdb

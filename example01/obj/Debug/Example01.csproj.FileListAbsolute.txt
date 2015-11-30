@@ -1,0 +1,12 @@
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-20\範例程式碼\[CS261]2015-10-20\Example01\bin\Debug\Example01.exe.config
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-20\範例程式碼\[CS261]2015-10-20\Example01\bin\Debug\Example01.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-20\範例程式碼\[CS261]2015-10-20\Example01\bin\Debug\Example01.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-20\範例程式碼\[CS261]2015-10-20\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-20\範例程式碼\[CS261]2015-10-20\Example01\obj\Debug\Example01.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 261 C# 基礎班\錄影與上課範例程式\2015-10-20\範例程式碼\[CS261]2015-10-20\Example01\obj\Debug\Example01.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example01\bin\Debug\Example01.exe.config
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example01\obj\Debug\Example01.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example01\obj\Debug\Example01.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example01\bin\Debug\Example01.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example01\bin\Debug\Example01.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache

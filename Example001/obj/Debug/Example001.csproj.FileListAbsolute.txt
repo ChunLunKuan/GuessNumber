@@ -1,0 +1,6 @@
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example001\bin\Debug\Example001.exe.config
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example001\bin\Debug\Example001.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example001\bin\Debug\Example001.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example001\obj\Debug\Example001.csprojResolveAssemblyReference.cache
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example001\obj\Debug\Example001.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Example001\obj\Debug\Example001.pdb

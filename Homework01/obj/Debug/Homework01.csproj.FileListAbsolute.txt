@@ -1,0 +1,8 @@
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\bin\Debug\Homework01.exe.config
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\bin\Debug\Homework01.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\bin\Debug\Homework01.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\bin\Debug\GameLibrary.dll
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\bin\Debug\GameLibrary.pdb
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\obj\Debug\Homework01.csprojResolveAssemblyReference.cache
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\obj\Debug\Homework01.exe
+C:\Users\key57\OneDrive\文件\Visual Studio 2015\Projects\[CS261]2015-10-20\Homework01\obj\Debug\Homework01.pdb
